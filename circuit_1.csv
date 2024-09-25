@@ -1,0 +1,13 @@
+wire,wire,wire,wire ,Resistor_load1,wire,Ammeter_load1,wire,wire,wire,wire,,,,
+wire,,,wire,,,,,wire,,wire,wire,wire,,
+wire,,,wire,,,,,wire,,wire,,wire,wire,wire
+Resistor_source,,,wire,wire,Voltmeter_load1,wire,wire,wire,,wire,,wire,,wire
+wire,,,,,,,,,,wire,,wire,,wire
+wire,,,,,,,,,,Resistor_load2,,Resistor_load3,,Voltmeter_load2load3
+VoltageSource_souce,,,,,,,,,,wire,,wire,,wire
+wire,,,,,,,,,,wire,,wire,,wire
+wire,,,,,,,,,,Ammeter_load2,,Ammeter_load3,,wire
+Ammeter_source,,,,,,,,,,wire,,wire,,wire
+wire,,,,,,,,,,wire,,wire,wire,wire
+wire,,,,,,,,,,wire,wire,wire,,
+wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,,,,
